@@ -75,7 +75,7 @@ Command:
 lsb_release -a
 ```
 
-**Actual result:**
+### Terminal Evidence
 ![Ubuntu terminal](screenshots/03-release.png)
 
 ## 5. Linux Kernel Information
@@ -86,7 +86,7 @@ Command:
 uname -r
 ```
 
-**Actual result:**
+### Terminal Evidence
 ![Ubuntu terminal](screenshots/04-kernal-version.png)
 
 ## 6. CPU Information
@@ -113,7 +113,7 @@ Command:
 free -h
 ```
 
-**Actual result:**
+### Terminal Evidence
 ![Ubuntu terminal](screenshots/05-ram-info.png)
 
 ## 8. Disk Information
